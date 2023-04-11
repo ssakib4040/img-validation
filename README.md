@@ -1,6 +1,6 @@
-# Image Validate
+# ImgValidation
 
-Image Validate a package to validate image
+ImgValidation a package to validate image
 
 ## Getting Started
 
@@ -41,5 +41,4 @@ const isValidPath = await ImgValidation.path(path);
 
 // validate any image input
 const isValidImage = await ImgValidation.isValidImage(image);
-
 ```
