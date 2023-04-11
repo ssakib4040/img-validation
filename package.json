@@ -1,0 +1,44 @@
+{
+  "name": "image-validation",
+  "description": "A lightweight and versatile image validation library for Node.js applications.",
+  "version": "1.0.3",
+  "main": "src/index.js",
+  "license": "MIT",
+  "author": "Sadman Sakib",
+  "scripts": {
+    "build": "tsc",
+    "start": "node src/index.js",
+    "dev": "nodemon src/index.ts",
+    "test": "mocha --require ./node_modules/ts-node/register tests/**/*.test.ts"
+  },
+  "dependencies": {
+    "chai": "^4.3.7",
+    "mocha": "^10.2.0",
+    "sharp": "^0.31.3"
+  },
+  "devDependencies": {
+    "@types/chai": "^4.3.4",
+    "@types/mocha": "^10.0.1",
+    "@types/node": "^18.15.11",
+    "@types/sharp": "^0.31.1",
+    "ts-node": "^10.9.1",
+    "typescript": "^5.0.4"
+  },
+  "homepage": "https://github.com/ssakib4040/img-validation",
+  "keywords": [
+    "image",
+    "validation",
+    "imgvalidation",
+    "img-validation",
+    "image-validation",
+    "validation",
+    "image",
+    "metadata",
+    "file",
+    "buffer",
+    "stream",
+    "URL",
+    "base64",
+    "sharp"
+  ]
+}
