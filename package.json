@@ -1,5 +1,5 @@
 {
-  "name": "image-validation",
+  "name": "img-validation",
   "description": "A lightweight and versatile image validation library for Node.js applications.",
   "version": "1.0.3",
   "main": "src/index.js",
