@@ -18,7 +18,7 @@ yarn add image-validate
 
 ## Usage
 
-```jsx | pure
+```jsx
 import ImgValidation from "img-validation";
 
 // validate a base64 string
