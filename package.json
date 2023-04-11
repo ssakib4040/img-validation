@@ -3,6 +3,7 @@
   "description": "A lightweight and versatile image validation library for Node.js applications.",
   "version": "1.0.10",
   "main": "dist/index.js",
+  "types": "src/index.d.ts",
   "license": "MIT",
   "author": "Sadman Sakib",
   "scripts": {
