@@ -1,7 +1,7 @@
 {
   "name": "img-validation",
   "description": "A lightweight and versatile image validation library for Node.js applications.",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "main": "src/index.js",
   "license": "MIT",
   "author": "Sadman Sakib",
